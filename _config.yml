@@ -1,0 +1,23 @@
+name: Snowboarding
+favicon: null
+layout_spectrum: 0.45890951878391206
+typography_spectrum: 0.12838902790099382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03659291169606149
+  lightness: 0.8886412086430937
+  saturation: 0.915814180392772
+  rhythmicContrast: 0.18101647682487965
+purpose: []
